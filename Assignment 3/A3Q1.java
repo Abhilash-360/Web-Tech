@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class comparingStringsLexographically {
+public class A3Q1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // taking string inputs which we have to compare
